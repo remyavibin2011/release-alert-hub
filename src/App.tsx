@@ -95,7 +95,7 @@ Sprint: Sprint 42 — Ship decision in 4 hours
 Steps to Reproduce: Start live stream → wait 8-10 mins → feed freezes, requires app restart
 Impact: Core feature broken for all users — affects premium tier subscribers
 Additional Notes: Issue intermittent in dev, consistent in staging. Lead engineer is OOO today.`
-  }
+  } 
 ];
 
 const css = `
